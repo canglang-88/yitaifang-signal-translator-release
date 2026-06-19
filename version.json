@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.1",
-    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.1/yitaifang-signal-translator-mother-v1.0.1.zip",
-    "notes":  "独立 Signal 翻译母包：新增下载进度条，包含创建桌面快捷方式入口；不包含账号数据或 OpenAI Key；更新只影响母包和模板，不影响 WhatsApp、通讯中枢或原版 Signal。",
-    "size":  140913089,
-    "updatedAt":  "2026-06-20 07:18:05 +08:00"
+    "version":  "1.0.2",
+    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.2/yitaifang-signal-translator-mother-v1.0.2.zip",
+    "notes":  "副本启动时自动检查更新；发现新版会显示下载进度条并更新当前副本程序，不删除登录数据；不包含账号数据或 OpenAI Key；不影响原版 Signal、WhatsApp 或通讯中枢。",
+    "size":  140916204,
+    "updatedAt":  "2026-06-20 07:36:50 +08:00"
 }
