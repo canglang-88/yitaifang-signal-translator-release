@@ -4,8 +4,8 @@
 
 ## 下载
 
-- 最新版本：1.0.1
-- 下载地址：https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.1/yitaifang-signal-translator-mother-v1.0.1.zip
+- 最新版本：1.0.2
+- 下载地址：https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.2/yitaifang-signal-translator-mother-v1.0.2.zip
 
 ## 使用流程
 
@@ -19,5 +19,7 @@
 ## 更新说明
 
 - 母包会单独检查本仓库的 ersion.json。
-- 更新只替换母包程序和模板，不删除已经创建的 Signal翻译账号 数据。
+- 新版 Signal 副本启动时也会自动检查更新。
+- 如果发现新版，会显示下载进度条；下载完成后只更新当前副本程序并重启。
+- 更新不会删除已经创建的 Signal翻译账号 登录数据。
 - 不会影响原版 Signal、WhatsApp 或通讯翻译中枢。
