@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.2",
-    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.2/yitaifang-signal-translator-mother-v1.0.2.zip",
-    "notes":  "副本启动时自动检查更新；发现新版会显示下载进度条并更新当前副本程序，不删除登录数据；不包含账号数据或 OpenAI Key；不影响原版 Signal、WhatsApp 或通讯中枢。",
-    "size":  140916204,
-    "updatedAt":  "2026-06-20 07:36:50 +08:00"
+    "version":  "1.0.3",
+    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.3/yitaifang-signal-translator-mother-v1.0.3.zip",
+    "notes":  "修复创建桌面快捷方式在非中文系统或不同代码页下出现 ???? 乱码的问题；改为 UTF-8 PowerShell 创建快捷方式。仍保持独立隔离，不包含账号数据或 OpenAI Key。",
+    "size":  140916873,
+    "updatedAt":  "2026-06-20 08:31:31 +08:00"
 }
