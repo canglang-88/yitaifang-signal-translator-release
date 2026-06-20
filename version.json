@@ -1,10 +1,10 @@
 {
-    "version":  "1.0.7",
-    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.7/yitaifang-signal-translator-mother-v1.0.7.zip",
-    "patchUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.7/yitaifang-signal-translator-mother-patch-v1.0.7.zip",
+    "version":  "1.0.8",
+    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.8/yitaifang-signal-translator-mother-v1.0.8.zip",
+    "patchUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.8/yitaifang-signal-translator-mother-patch-v1.0.8.zip",
     "patchMinVersion":  "1.0.5",
-    "notes":  "修复 1.0.6 更新后仍重复提示更新的问题：统一母包本地版本号与云端版本号。",
-    "size":  146770661,
-    "patchSize":  69880007,
-    "updatedAt":  "2026-06-21 03:33:21 +08:00"
+    "notes":  "修复 raw version.json 缓存导致更新状态不及时的问题：更新检查改为 GitHub API 优先，raw 地址兜底。",
+    "size":  146772253,
+    "patchSize":  69881599,
+    "updatedAt":  "2026-06-21 03:40:04 +08:00"
 }
