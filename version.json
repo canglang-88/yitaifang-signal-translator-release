@@ -1,7 +1,10 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.5/yitaifang-signal-translator-mother-v1.0.5.zip",
-  "notes": "母包内置干净 SignalDesktop 程序；新建 Signal 翻译版时直接从母包模板复制一份完整独立副本，并在桌面创建 Signal Translator 01/02 快捷方式；不再搜索或依赖电脑原版 Signal 安装目录；不包含账号数据、OpenAI Key、聊天记录和翻译缓存。",
-  "size": 321001997,
-  "updatedAt": "2026-06-20 09:45:00 +08:00"
+    "version":  "1.0.6",
+    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.6/yitaifang-signal-translator-mother-v1.0.6.zip",
+    "patchUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.0.6/yitaifang-signal-translator-mother-patch-v1.0.6.zip",
+    "patchMinVersion":  "1.0.5",
+    "notes":  "新增母包和已创建 Signal 翻译版的补丁更新机制；保留账号目录和配置目录；完整包不包含任何登录数据。旧版本走完整包，新版本走补丁包。",
+    "size":  146770658,
+    "patchSize":  69880004,
+    "updatedAt":  "2026-06-21 02:53:33 +08:00"
 }
