@@ -3,9 +3,9 @@
     "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.1/yitaifang-signal-translator-mother-v1.1.1.zip",
     "patchUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.1/yitaifang-signal-translator-mother-patch-v1.1.1.zip",
     "patchMinVersion":  "1.0.6",
-    "notes":  "修复删除副本时 Content.IE5 等受保护缓存目录导致失败；桌面快捷方式统一为中文名称；删除副本会按目标路径清理对应桌面快捷方式；更新不会覆盖已有 Signal 副本登录数据和配置。",
-    "size":  326807000,
+    "notes":  "修复删除副本时 Content.IE5 等受保护缓存目录导致失败；桌面快捷方式统一为中文名称；删除副本会按目标路径清理对应桌面快捷方式；完整包内部目录改为 SignalCenter，提升旧电脑和解压工具兼容性；更新不会覆盖已有 Signal 副本登录数据和配置。",
+    "size":  326731890,
     "patchSize":  70026414,
     "bundledSignalVersion":  "8.15.0",
-    "updatedAt":  "2026-06-21 11:49:35 +08:00"
+    "updatedAt":  "2026-06-21 11:59:27 +08:00"
 }
