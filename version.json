@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.2",
-    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.2/yitaifang-signal-translator-mother-v1.1.2.zip",
-    "patchUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.2/yitaifang-signal-translator-mother-patch-v1.1.2.zip",
+    "version":  "1.1.3",
+    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.3/yitaifang-signal-translator-mother-v1.1.3.zip",
+    "patchUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.3/yitaifang-signal-translator-mother-patch-v1.1.3.zip",
     "patchMinVersion":  "1.0.6",
-    "notes":  "更新覆盖优先级最高：自动更新时强制关闭安装目录内正在运行的 Signal 中枢、翻译副本和子进程，然后使用 robocopy 镜像覆盖程序文件；保留 Signal翻译账号、mother-config.json 和快捷方式目录；修复重复更新问题。",
-    "size":  326732431,
-    "patchSize":  70007341,
+    "notes":  "修复完整包创建桌面快捷方式脚本：不再出现 Resolve-Path 空字符串；使用 EncodedCommand 和 ASCII 脚本内容，避免中文系统/英文系统/不同代码页导致乱码；保留强制关闭进程后覆盖更新逻辑。",
+    "size":  326733759,
+    "patchSize":  70007346,
     "bundledSignalVersion":  "8.15.0",
-    "updatedAt":  "2026-06-21 12:28:18 +08:00"
+    "updatedAt":  "2026-06-21 22:38:18 +08:00"
 }
