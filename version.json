@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.0",
-    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.0/yitaifang-signal-translator-mother-v1.1.0.zip",
-    "patchUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.0/yitaifang-signal-translator-mother-patch-v1.1.0.zip",
-    "patchMinVersion":  "1.1.0",
-    "notes":  "新增“更新 Signal 官方内核”功能：从本机官方 Signal 程序同步 SignalDesktop 到母包模板和翻译副本，不使用隔离版 Signal 自带更新器，不影响原版 Signal 和账号数据。旧母包会强制走完整包更新一次，修复旧补丁复制层级问题。",
-    "size":  326659912,
-    "patchSize":  69883259,
+    "version":  "1.1.1",
+    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.1/yitaifang-signal-translator-mother-v1.1.1.zip",
+    "patchUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.1/yitaifang-signal-translator-mother-patch-v1.1.1.zip",
+    "patchMinVersion":  "1.0.6",
+    "notes":  "修复删除副本时 Content.IE5 等受保护缓存目录导致失败；桌面快捷方式统一为中文名称；删除副本会按目标路径清理对应桌面快捷方式；更新不会覆盖已有 Signal 副本登录数据和配置。",
+    "size":  326807000,
+    "patchSize":  70026414,
     "bundledSignalVersion":  "8.15.0",
-    "updatedAt":  "2026-06-21 05:28:03 +08:00"
+    "updatedAt":  "2026-06-21 11:49:35 +08:00"
 }
