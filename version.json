@@ -1,11 +1,11 @@
 {
-    "version":  "1.1.3",
-    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.3/yitaifang-signal-translator-mother-v1.1.3.zip",
-    "patchUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.3/yitaifang-signal-translator-mother-patch-v1.1.3.zip",
+    "version":  "1.1.4",
+    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.4/yitaifang-signal-translator-mother-v1.1.4.zip",
+    "patchUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.4/yitaifang-signal-translator-mother-patch-v1.1.4.zip",
     "patchMinVersion":  "1.0.6",
-    "notes":  "修复完整包创建桌面快捷方式脚本：不再出现 Resolve-Path 空字符串；使用 EncodedCommand 和 ASCII 脚本内容，避免中文系统/英文系统/不同代码页导致乱码；保留强制关闭进程后覆盖更新逻辑。",
-    "size":  326733759,
-    "patchSize":  70007346,
+    "notes":  "修复自动更新覆盖脚本在中文安装路径下被 Windows PowerShell 5.1 按 ANSI 读取导致路径乱码的问题；apply 脚本改为 Unicode 写入，确保中文路径正确覆盖；防止下载后未覆盖成功导致重复更新。",
+    "size":  326733744,
+    "patchSize":  70007331,
     "bundledSignalVersion":  "8.15.0",
-    "updatedAt":  "2026-06-21 22:38:18 +08:00"
+    "updatedAt":  "2026-06-21 22:55:17 +08:00"
 }
