@@ -1,11 +1,1 @@
-{
-    "version":  "1.1.4",
-    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.4/yitaifang-signal-translator-mother-v1.1.4.zip",
-    "patchUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.4/yitaifang-signal-translator-mother-patch-v1.1.4.zip",
-    "patchMinVersion":  "1.0.6",
-    "notes":  "修复自动更新覆盖脚本在中文安装路径下被 Windows PowerShell 5.1 按 ANSI 读取导致路径乱码的问题；apply 脚本改为 Unicode 写入，确保中文路径正确覆盖；防止下载后未覆盖成功导致重复更新。",
-    "size":  326733744,
-    "patchSize":  70007331,
-    "bundledSignalVersion":  "8.15.0",
-    "updatedAt":  "2026-06-21 22:55:17 +08:00"
-}
+{"url":"https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.5/yitaifang-signal-translator-mother-v1.1.5.zip","size":326701114,"version":"1.1.5","notes":"1.1.5：新安装没有旧版本时直接创建桌面 Signal 翻译中枢入口；旧版本更新时强制退出相关进程、修复 ACL 权限、Unicode 脚本防中文路径乱码；补丁包带完整模板但不带账号数据，避免 Template 丢失；保留 Signal翻译账号、快捷方式和 mother-config.json，防止已有子程序和登录数据丢失。","patchSize":326701114,"updatedAt":"2026-06-22 08:31:06 +08:00","bundledSignalVersion":"8.15.0","patchMinVersion":"1.0.5","patchUrl":"https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.5/yitaifang-signal-translator-mother-patch-v1.1.5.zip"}
