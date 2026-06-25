@@ -1,1 +1,16 @@
-{"url":"https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.15/yitaifang-signal-translator-mother-v1.1.15.zip","size":326710615,"version":"1.1.15","sha256":"4f0aeb4bf58097232d6310f23bc5848b14a70442873e40e5ef7598efdd4632fa","notes":"1.1.15：修正 1.1.14 包内中枢版本仍为 1.1.13 导致重复更新的问题；保留 Program 缓存完成标记/自愈重建，避免新建副本无法打开 Signal；保留第二次点击直接发送和翻译失败自动重试。","patchSize":0,"updatedAt":"2026-06-24 10:32:08 +08:00","bundledSignalVersion":"8.15.0","patchMinVersion":"","patchUrl":""}
+{
+    "version":  "1.1.16",
+    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.16/yitaifang-signal-translator-mother-v1.1.16.zip",
+    "size":  326680316,
+    "sha256":  "3b5c8e8200b7f88d612f7c7e2d1c65a25a959ec2836c6a665e995b49bedc79b6",
+    "notes":  "v1.1.16：稳定启动与更新修复；同步官方内核会刷新真实独立运行目录；新增一键顺序同步全部副本并显示进度；更新超时放宽到60分钟；覆盖更新保留账号数据和配置。",
+    "patchUrl":  "",
+    "patchSize":  0,
+    "patchSha256":  "",
+    "patchMinVersion":  "",
+    "bootstrapUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.16/yitaifang-signal-translator-bootstrap-v1.1.16.zip",
+    "bootstrapSize":  3415,
+    "bootstrapSha256":  "145ab4d0819012fe401044903461e1393d56927e1bdac4e68c2a5840af1c4d8e",
+    "bundledSignalVersion":  "8.15.0",
+    "updatedAt":  "2026-06-25 08:39:19 +08:00"
+}
