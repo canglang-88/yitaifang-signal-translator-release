@@ -1,4 +1,4 @@
-﻿{
+{
     "version":  "1.1.18",
     "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.18/yitaifang-signal-translator-mother-v1.1.18.zip",
     "size":  326714057,
@@ -12,5 +12,5 @@
     "bootstrapSize":  3427,
     "bootstrapSha256":  "401fa65563bdbc0f779ae52d283ba47100358e3d44d2a98030e6803eb31f0115",
     "bundledSignalVersion":  "8.15.0",
-    "updatedAt":  "2026-07-05 02:48:42 +08:00"
+    "updatedAt":  "2026-07-05 02:49:44 +08:00"
 }
