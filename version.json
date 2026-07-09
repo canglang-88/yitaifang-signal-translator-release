@@ -1,16 +1,16 @@
-{
-    "version":  "1.1.19",
-    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.19/yitaifang-signal-translator-mother-v1.1.19.zip",
-    "size":  326714093,
-    "sha256":  "66428456bffb8f49ca8bc85bf19a7a1e8631b8e004a2c3148dc638a45337328b",
-    "notes":  "v1.1.19: fix copy window title pollution from test copy; full package update keeps account data and config; online installer shows progress and verifies SHA256 to avoid repeated download loops.",
+﻿{
+    "version":  "1.1.20",
+    "url":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.20/yitaifang-signal-translator-mother-v1.1.20.zip",
+    "size":  326870060,
+    "sha256":  "9945908c1d23002729ad5b39913858f4d6e41d895d7fb481749d0949006d3155",
+    "notes":  "v1.1.20: add \u0027引流人员\u0027 field to Signal contact notes; update mother hub version to prevent repeated update prompts; full package update keeps account data and config; online installer shows progress and verifies SHA256.",
     "patchUrl":  "",
     "patchSize":  0,
     "patchSha256":  "",
     "patchMinVersion":  "",
-    "bootstrapUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.19/yitaifang-signal-translator-bootstrap-v1.1.19.zip",
-    "bootstrapSize":  3350,
-    "bootstrapSha256":  "fd787083e41140deb886b2c243f1b9c565bf66b32a0956289ae816ef3bc45864",
+    "bootstrapUrl":  "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.20/yitaifang-signal-translator-bootstrap-v1.1.20.zip",
+    "bootstrapSize":  3413,
+    "bootstrapSha256":  "0e43818251f29ae6ad42a318ab068a36be8ade962f1b2caa165a8aaf6bd62067",
     "bundledSignalVersion":  "8.15.0",
-    "updatedAt":  "2026-07-05 07:34:53 +08:00"
+    "updatedAt":  "2026-07-10 00:00:59 +08:00"
 }
