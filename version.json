@@ -1,16 +1,16 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.2.1/yitaifang-signal-translator-mother-v1.2.1.zip",
-  "size": 450452022,
-  "sha256": "161ddd079471f05461749f966c0d09e3d73e1c4115c269fc890fa6b065c4a971",
-  "notes": "v1.2.1: adds local authorization, child-program launch gate, cloud stop/restore control, cloud expiry control, and a 30-second shutdown countdown after background cloud disable detection. Update preserves account data/config. After updating the hub, click 更新全部副本 to sync existing Signal child programs.",
+  "version": "1.2.2",
+  "url": "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.2.2/yitaifang-signal-translator-mother-v1.2.2.zip",
+  "size": 450452019,
+  "sha256": "6e0337e083c0ca134f99b9801e296fdc6d03929cdfd030be554b74e4cb2611e7",
+  "notes": "v1.2.2: keeps the authorization gate outside the translation core, uses a 5-second startup cloud check, avoids stale disabled cache blocking restored devices, and preserves account data/config. After updating the hub, click 更新全部副本 to sync existing Signal child programs.",
   "patchUrl": "",
   "patchSize": 0,
   "patchSha256": "",
   "patchMinVersion": "",
-  "bootstrapUrl": "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.2.1/yitaifang-signal-translator-bootstrap-v1.2.1.zip",
-  "bootstrapSize": 3464,
-  "bootstrapSha256": "3df0cb441803c276033589ed30b2e6cf68fe7c769912c49d27705e7475a6d2f5",
+  "bootstrapUrl": "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.2.2/yitaifang-signal-translator-bootstrap-v1.2.2.zip",
+  "bootstrapSize": 3487,
+  "bootstrapSha256": "72328871a2141b76943680275f5987fd2cf62211e842aa4208a923f765d3f54a",
   "bundledSignalVersion": "8.15.0",
-  "updatedAt": "2026-07-12 09:31:00 +08:00"
+  "updatedAt": "2026-07-12 09:55:00 +08:00"
 }
