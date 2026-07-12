@@ -4,14 +4,14 @@
 
 ## 推荐下载：小引导安装包
 
-- 最新版本：1.2.4
-- 推荐下载：[yitaifang-signal-translator-bootstrap-v1.2.4.zip](https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.2.4/yitaifang-signal-translator-bootstrap-v1.2.4.zip)
+- 最新版本：1.1.20
+- 推荐下载：[yitaifang-signal-translator-bootstrap-v1.1.20.zip](https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.20/yitaifang-signal-translator-bootstrap-v1.1.20.zip)
 
 小引导包只有几 KB，适合发给用户。它会自动读取云端最新版，显示下载进度，下载完整包后校验 SHA256，再覆盖安装。
 
 ## 备用：完整包下载
 
-- 完整包：[yitaifang-signal-translator-mother-v1.2.4.zip](https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.2.4/yitaifang-signal-translator-mother-v1.2.4.zip)
+- 完整包：[yitaifang-signal-translator-mother-v1.1.20.zip](https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.20/yitaifang-signal-translator-mother-v1.1.20.zip)
 
 只有小引导包被安全软件拦截，或当前网络无法自动下载时，才建议手动下载完整包。
 
@@ -29,7 +29,7 @@
 - 覆盖时会保留 `Signal翻译账号`、`mother-config.json`、OpenAI 配置、登录数据、聊天记录和本机设置。
 - 不会影响原版 Signal、WhatsApp 或通讯翻译中枢。
 
-## v1.2.4 重点
+## v1.1.20 重点
 
 - 中枢保留授权、云端禁用、云端到期和“重新检测”入口。
 - 子程序保持稳定翻译入口：`YitaifangSignalTranslator.exe` 184KB。
