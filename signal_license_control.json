@@ -1,7 +1,21 @@
 {
   "enabled": true,
-  "blocked_message": "\u672c\u673a\u6388\u6743\u5df2\u88ab\u505c\u7528\uff0c\u8bf7\u8054\u7cfb\u7ba1\u7406\u5458\u91cd\u65b0\u6388\u6743\u3002",
+  "blocked_message": "本机授权已被停用，请联系管理员重新授权。",
   "allowed_devices": [],
-  "blocked_devices": [],
-  "device_rules": {}
+  "blocked_devices": [
+    "SIG-FF4BB-B69EF-5A59B-15C53"
+  ],
+  "device_rules": {
+    "SIG-1FC43-9CA8F-8F3FB-F73C8": {
+      "blocked": false,
+      "reason": "本机授权已被停用，请联系管理员重新授权。",
+      "note": "苍狼",
+      "expires": "2027-07-11"
+    },
+    "SIG-FF4BB-B69EF-5A59B-15C53": {
+      "note": "大师",
+      "blocked": true,
+      "reason": "本机授权已被管理员停用。"
+    }
+  }
 }
