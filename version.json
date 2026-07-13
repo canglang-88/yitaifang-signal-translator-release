@@ -1,9 +1,9 @@
 {
-  "version": "1.1.20",
-  "url": "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v1.1.20/yitaifang-signal-translator-mother-v1.1.20.zip",
+  "version": "2.0.1",
+  "url": "https://github.com/canglang-88/yitaifang-signal-translator-release/releases/download/v2.0.1/yitaifang-signal-translator-mother-v2.0.1.zip",
   "size": 326870060,
   "sha256": "9945908c1d23002729ad5b39913858f4d6e41d895d7fb481749d0949006d3155",
-  "notes": "v1.1.20 stable. The stable full package remains unchanged. Startup authorization self-check is documented as a manual test package only.",
+  "notes": "v2.0.1 stable rollback: re-publishes the known stable Signal translator hub package so clients that received a bad update can update back to the stable build. Existing account folders, login data, chat records, and OpenAI configuration are preserved by the installer/update script.",
   "patchUrl": "",
   "patchSize": 0,
   "patchSha256": "",
@@ -13,5 +13,5 @@
   "bootstrapSize": 3413,
   "bootstrapSha256": "0e43818251f29ae6ad42a318ab068a36be8ade962f1b2caa165a8aaf6bd62067",
   "bundledSignalVersion": "8.15.0",
-  "updatedAt": "2026-07-13 04:08:00 +08:00"
+  "updatedAt": "2026-07-13 05:05:00 +08:00"
 }
